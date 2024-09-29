@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <DeltaInfo Name="microvolts" Version="ENG_7.0.0.1">
     <UpdatedFiles>
-        <File Name="MemUsageLog.txt" CheckSum="f4152501" />
+        <File Name="patch.ini" CheckSum="458a1eb6" />
+        <File Name="Microvolts.exe" CheckSum="6ec5e804" />
     </UpdatedFiles>
 </DeltaInfo>
