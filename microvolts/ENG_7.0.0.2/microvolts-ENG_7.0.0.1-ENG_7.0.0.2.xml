@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<DeltaInfo Name="microvolts" Version="ENG_7.0.0.2">
-    <UpdatedFiles>
-        <File Name="patch.ini" CheckSum="300024dc" />
-        <Dir Name="Bin">
-            <File Name="Microvolts.exe" CheckSum="6ec5e804" />
-        </Dir>
-    </UpdatedFiles>
-</DeltaInfo>
