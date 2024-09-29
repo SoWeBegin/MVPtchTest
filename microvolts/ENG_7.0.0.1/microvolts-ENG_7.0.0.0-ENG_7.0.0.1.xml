@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <DeltaInfo Name="microvolts" Version="ENG_7.0.0.1">
     <UpdatedFiles>
-        <File Name="patch.ini" CheckSum="300024dc" />
+        <File Name="patch.ini" CheckSum="5e931ee8" />
         <Dir Name="Bin">
             <File Name="Microvolts.exe" CheckSum="6ec5e804" />
         </Dir>
