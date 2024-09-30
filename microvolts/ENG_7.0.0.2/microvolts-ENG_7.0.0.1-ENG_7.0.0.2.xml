@@ -1,0 +1,10 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<DeltaInfo Name="microvolts" Version="ENG_7.0.0.2">
+    <UpdatedFiles>
+        <File Name="patch.ini" CheckSum="6d142541" />
+        <Dir Name="Bin">
+            <File Name="ui.dat" CheckSum="4c3de668" />
+        </Dir>
+    </UpdatedFiles>
+</DeltaInfo>
